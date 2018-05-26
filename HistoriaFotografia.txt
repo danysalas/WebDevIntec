@@ -4,7 +4,6 @@ Todas las historias de técnicas e inventos, están repletas de discusiones acer
 de fechas, lugares, nombres y antecedentes. Detrás de estas discusiones se escon-
 de muchas veces el interés del historiador por dar prioridad a sus propios descu-
 brimientos, a menudo influenciados por sentimientos patrióticos o nacionalistas.
-                                                                                
 De cualquier forma, el progreso siempre sigue un esquema de continuidad lógica, 
 en el que los lugares y los nombres no son tan importantes como los resultados. 
 Por ello no vamos a perdernos en inútiles hipótesis de quién fue el inventor de 
@@ -20,36 +19,29 @@ numbras, una imagen invertida de lo que ocurre en el exterior).
 El descubrimiento de las sustancias fotosensibles se remonta a muchos años de 
 antigüedad. El hombre observó por ejemplo que al retirar un objeto dejado du-
 rante algún tiempo sobre una hoja verde, ésta conservaba la silueta del obje-
-to.       
-                                                                                
-Los primeros experimentos datan del siglo XVII. Robert Boyle en 1663 describía  
-que el Cloruro de Plata se vuelve negro al exponerse a la luz, aunque lo achaco 
-al efecto oxidativo de aire.                                                    
-                                                                                
-                                                                                
+to. Los primeros experimentos datan del siglo XVII. Robert Boyle en 1663 des-
+cribía que el Cloruro de Plata se vuelve negro al exponerse a la luz, aunque 
+lo achaco al efecto oxidativo de aire.                                                    
+                                                				                                                     
 En 1757 Giovanni Battista demostró que este efecto era debido a la acción de la 
 luz. A partir de entonces los estudios sobre la naturaleza de la luz fueron com- 
 pletándose y se realizaron los primeros esfuerzos para fijar imágenes y dibujos 
 por medio de la luz, pero éstos acababan por degradarse.                        
-																				
-																				
+																	
 El descubrimiento de los principios de la cámara oscura se ha atribuido a Mo-   
 Tzum, en la China de hace 25 siglos, a Aristóteles (300 a.C.), al erudito árabe 
 Ibn al Haitam (1.000 DC), al inglés Bacín (1.250), etc., pero no dejan de ser me
 ras especulaciones. La primera descripción completa e ilustrada sobre el funcio-
 namiento de la cámara oscura, aparece en los manuscritos de Leonardo da         
-Vinci(1.452-1.519).																
-																				
+Vinci(1.452-1.519).													
+
 Durante el siglo XVIII el invento se hace muy popular al mejorarse técnica y me- 
 cánicamente, y pasar a convertirse en instrumento de dibujo. Es a principios del
- siglo XIX, a traves de tres grandes personajes históricos, que se desarrolla en
- método fotográfico de la fotografía clásica.									
-																				
-Fue Joseph-Nicephore Niepce (n. 1.765) quién consiguió las primeras imágenes ne- 
-gativas en 1816, utilizando papel tratado con cloruro de plata, pero se obstinó 
-en lograr directamente imágenes positivas y además no consiguió fijar la imagen 
-obtenida.♀																		
-																				
+siglo XIX, a traves de tres grandes personajes históricos, que se desarrolla en
+método fotográfico de la fotografía clásica. Fue Joseph-Nicephore Niepce (n. 1.765)
+quién consiguió las primeras imágenes negativas en 1816, utilizando papel tratado
+con cloruro de plata, pero se obstinó en lograr directamente imágenes positivas y
+además no consiguió fijar la imagen obtenida.♀																		
 Las primeras imágenes positivas directas las logró utilizando placas de peltre  
 (aleación de zinc, estaño y plomo) recubiertas de betún de Judea y fijadas con  
 aceite de lavanda. Con este sistema, utilizando una cámara oscura modificada, im-
@@ -59,8 +51,7 @@ OGRAFÍA. Aun así, no consiguió un método para invertir las imágenes, y pref
 comenzar a investigar un sistema con que obtener positivos directos. También tro-
 pezó con el problema de las larguísimas exposiciones que necesitaba (varias ho-  
 ras) ya que el sol al moverse dificultaba el modelado de los objetos.			
-																				
-																				
+																
 Louis Jacques Mandè Daguerre, veinte años más joven que Niepce y famoso pintor, 
 estaba interesado en la forma de fijar la luz con su cámara oscura, al enterarse
 de los trabajos de Niepce le escribió para conocer sus métodos pero éste se ne-  
@@ -73,8 +64,7 @@ visible, que posteriormente revelaba en vapores calientes de mercurio y fijaba
 lavando con agua caliente con sal, aunque el verdadero fijado no lo consiguió   
 hasta dos años más tarde. Algunos de lo daguerrotipos que produjo se conservan  
 aún en la actualidad.															
-																				
-Casi al mismo tiempo que los franceses Niepce y Daguerre, el inglés William Hen- 
+																	Casi al mismo tiempo que los franceses Niepce y Daguerre, el inglés William Hen- 
 ry Fox Talbot (n. 1.800), de familia aristocrática y amplia formación científi-  
 ca, reclamó para sí la paternidad del invento al mostrar negativos obtenidos ex- 
 poniendo objetos como encajes y objetos sobre papel con cloruro de plata; poste- 
